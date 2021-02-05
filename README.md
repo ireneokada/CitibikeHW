@@ -15,6 +15,6 @@ Both the bike utilization and age range utilization lend themselves to dashboard
 a)	Drill down into age ranges to determine need and types of bike riding; perhaps they are complementary (peak demand for workers during the week and peak demand for recreational use on the weekend- consider redistributing bikes during peak times and exploring demand by older age groups ; consider how media used to reach this demographic might differ from those in the 20-40 group.
 b)	Bikes can be tracked by id. Map locations and trip duration can be filtered by bike id to gain a better understanding of patterns of use and facilitate problem solving for bike maintenance and rotation. Consider active rotation of bikes at stations that are consistent origin and destination for rides of longer duration.
 
-http://localhost:8888/view/Desktop/CitibikeHW/images/map.png
+![alt text](http://images/map.png)
 
 
